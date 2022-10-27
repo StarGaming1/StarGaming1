@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **from @Zuri**
 
-- 👨‍💻 All of my projects are available at [https://Portifolio.najimdeenajadi.repl.co](https://Portifolio.najimdeenajadi.repl.co)
+- 👨‍💻 My Portfolio [https://Portifolio.najimdeenajadi.repl.co](https://Portifolio.najimdeenajadi.repl.co)
 
 - 💬 Ask me about **Andriod**
 
