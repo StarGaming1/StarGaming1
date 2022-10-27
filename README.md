@@ -12,7 +12,7 @@
 
 - 👨‍💻 My Portfolio [https://Portifolio.najimdeenajadi.repl.co](https://Portifolio.najimdeenajadi.repl.co)
 
-- 💬 Ask me about **Andriod**
+- 💬 Ask me about **Frontemd**
 
 - 📫 How to reach me **najimdeenajadi@gmail.com**
 
